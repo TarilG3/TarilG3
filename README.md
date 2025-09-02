@@ -12,7 +12,7 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Operating Systems:** Windows Server, Linux (Ubuntu)  
+- **Operating Systems:** Windows, Linux (Ubuntu)  
 - **Programming/Scripting:** Python, Bash
 
 ---
