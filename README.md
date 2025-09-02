@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm William Se 
 
-<!--
-**TarilG3/TarilG3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently pursuing **Bachelor of Science in Information Technology (BSIT)**
+- 🏫 Studying at **Pamantasan ng Lungsod ng Muntinlupa**
+- 🌐 Interested in **Computer Networks, Cloud Computing, and Cybersecurity**  
+- 📖 Constantly learning about system administration, Linux, and network security  
+- 🔍 Exploring certifications like **CompTIA Network+ and Security+ and AWS Cloud Practitioner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+- **Operating Systems:** Windows Server, Linux (Ubuntu)  
+- **Programming/Scripting:** Python, Bash
+
+---
+
+## 📫 Connect With Me
+- 🌐 **LinkedIn:** www.linkedin.com/in/william-se-a74041331
+- 📧 **Email:** itsmewilliamse@gmail.com
+- 📱 **Mobile Number:** 🇵🇭+63 | 9983727289
