@@ -20,6 +20,7 @@
 ---
 
 ## 📫 Connect With Me
+- 🌐 **Facebook:** https://www.facebook.com/SeWill1337/
 - 🌐 **LinkedIn:** www.linkedin.com/in/william-se-a74041331
 - 📧 **Email:** itsmewilliamse@gmail.com
 - 📱 **Mobile Number:** 🇵🇭+63 | 9983727289
