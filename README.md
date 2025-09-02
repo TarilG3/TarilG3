@@ -14,6 +14,8 @@
 ## 🛠️ Skills & Tools
 - **Operating Systems:** Windows, Linux (Ubuntu)  
 - **Programming/Scripting:** Python, Bash
+- **Web Development:** HTML5, CSS3, Javascript, Bootstrap
+- **Database: Management System:** SQL, MySQL, XAMPP
 
 ---
 
