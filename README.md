@@ -7,7 +7,7 @@
 - 🏫 Studying at **Pamantasan ng Lungsod ng Muntinlupa**
 - 🌐 Interested in **Computer Networks, Cloud Computing, and Cybersecurity**  
 - 📖 Constantly learning about system administration, Linux, and network security  
-- 🔍 Exploring certifications like **CompTIA Network+ and Security+ and AWS Cloud Practitioner**
+- 🔍 Exploring certifications like **CompTIA and Azure Certifications**
 
 ---
 
@@ -15,12 +15,13 @@
 - **Operating Systems:** Windows, Linux (Ubuntu)  
 - **Programming/Scripting:** C++, Python, Bash
 - **Web Development:** HTML5, CSS3, PHP, Javascript
-- **Database: Management System:** SQL, MySQL, XAMPP
+- **Database Management System:** SQL, MySQL, XAMPP
+- **Cloud Service Provider:** Azure
 
 ---
 
 ## 📫 Connect With Me
-- 🌐 **Facebook:** https://www.facebook.com/SeWill1337/
+- 🌐 **Facebook:** https://www.facebook.com/se.willie/
 - 🌐 **LinkedIn:** www.linkedin.com/in/william-se-a74041331
 - 📧 **Email:** itsmewilliamse@gmail.com
 - 📱 **Mobile Number:** 🇵🇭+63 | 9983727289
