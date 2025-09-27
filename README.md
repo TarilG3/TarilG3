@@ -6,7 +6,7 @@
 - 🎓 Currently pursuing **Bachelor of Science in Information Technology (BSIT)**
 - 🏫 Studying at **Pamantasan ng Lungsod ng Muntinlupa**
 - 🌐 Interested in **Computer Networks, Cloud Computing, and Cybersecurity**  
-- 📖 Constantly learning about system administration, Linux, and network security  
+- 📖 Constantly learning about **cloud infrastructure, Linux systems, and network security**  
 - 🔍 Exploring certifications like **CompTIA and Azure Certifications**
 
 ---
